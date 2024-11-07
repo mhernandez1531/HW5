@@ -1,6 +1,6 @@
 /******************************************************************
  *
- *   YOUR NAME / SECTION NUMBER
+ *   Mariana Hernandez / COMP 272-002 - Fall 2024
  *
  *   Note, additional comments provided throughout this source code
  *   is for educational purposes
